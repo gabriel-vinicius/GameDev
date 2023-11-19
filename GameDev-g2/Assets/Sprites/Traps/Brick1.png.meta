@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 18d1cfef25ce420408842bd64de01302
+guid: bdc69d401c5e4544ba294d0f185c038c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,133 +121,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: shop_anim_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 118
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8ecd961c6ccf2d40a9653a4a650d599
-      internalID: -484098092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shop_anim_1
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 0
-        width: 118
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bf6480b0d0826447ac99e5d53947c86
-      internalID: -636561629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shop_anim_2
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 0
-        width: 118
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78513ef2f92a8504f827c8f8588dfb01
-      internalID: -1997672646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shop_anim_3
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 0
-        width: 118
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c80984de8213aa4479b26d024cc7185c
-      internalID: -764187949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shop_anim_4
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 0
-        width: 118
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45d5b7c9b7afbbd428e5afa65a2f6e9f
-      internalID: 1344407896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shop_anim_5
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 0
-        width: 118
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ef8cdabeb62831428b3a9399a72b8fd
-      internalID: 1778688643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -258,13 +132,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      shop_anim_0: -484098092
-      shop_anim_1: -636561629
-      shop_anim_2: -1997672646
-      shop_anim_3: -764187949
-      shop_anim_4: 1344407896
-      shop_anim_5: 1778688643
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3619057650084473070}
   - component: {fileID: 2707249056427596636}
   m_Layer: 0
-  m_Name: Idle_0
+  m_Name: spikes
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
