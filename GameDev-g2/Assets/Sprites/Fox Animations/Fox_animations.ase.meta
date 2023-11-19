@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: f79f42c4ff49bb345bc8374f1bbdf9b4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Fox_animations_Frame_0
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 39
+      width: 20
+      height: 29
+    spriteID: 4eccf6fa93a62a0499fecdc7e0afe5a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 39}
+  - name: Fox_animations_Frame_1
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 77
+      width: 20
+      height: 29
+    spriteID: 2a953cc042271884fbfd772ad52bd457
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 77}
+  - name: Fox_animations_Frame_2
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 39
+      width: 20
+      height: 30
+    spriteID: 33ebc67efc041b04b85d4820cfd65f60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 39}
+  - name: Fox_animations_Frame_3
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 77
+      width: 20
+      height: 29
+    spriteID: a977789f5bc75d241bb3889bb13ce96b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 77}
+  - name: Fox_animations_Frame_4
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 77
+      width: 20
+      height: 29
+    spriteID: a58396ef5893e924ea425188029fe11c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 77}
+  - name: Fox_animations_Frame_5
+    originalName: 
+    pivot: {x: 0.65, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 77
+      width: 20
+      height: 27
+    spriteID: d44daed69634a9c49b8cd4369fa08a09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 77}
+  - name: Fox_animations_Frame_6
+    originalName: 
+    pivot: {x: 0.37142858, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 27
+    spriteID: f010f6eb9548d6b4ebfcb5367d709ecb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Fox_animations_Frame_7
+    originalName: 
+    pivot: {x: 0.61904764, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 77
+      width: 21
+      height: 27
+    spriteID: 725a4a5a11004664ba904b506a511d6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 77}
+  - name: Fox_animations_Frame_8
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 77
+      width: 20
+      height: 29
+    spriteID: 9fd8e178049f1b34f8a45e8f3a41934c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 77}
+  - name: Fox_animations_Frame_9
+    originalName: 
+    pivot: {x: 0.5909091, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 39
+      width: 22
+      height: 27
+    spriteID: f89a702b6c41c514d95425ee0d3c63a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 39}
+  - name: Fox_animations_Frame_10
+    originalName: 
+    pivot: {x: 0.65, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 77
+      width: 20
+      height: 28
+    spriteID: 193586f65668cc24db203a7720958713
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 77}
+  - name: Fox_animations_Frame_11
+    originalName: 
+    pivot: {x: 0.68421054, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 114
+      width: 19
+      height: 27
+    spriteID: b49e705b1a65ed143b7fb958b026c69b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 114}
+  - name: Fox_animations_Frame_12
+    originalName: 
+    pivot: {x: 0.65, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 77
+      width: 20
+      height: 28
+    spriteID: e12fd4473eb52204db640de2d1a50057
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 77}
+  - name: Fox_animations_Frame_13
+    originalName: 
+    pivot: {x: 0.5909091, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 39
+      width: 22
+      height: 27
+    spriteID: 3bebd07124b40b04e8500365134bb3cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 39}
+  - name: Fox_animations_Frame_14
+    originalName: 
+    pivot: {x: 0.7894737, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 19
+      height: 28
+    spriteID: 75871152b76f0b74ab5680e9d4583a95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: Fox_animations_Frame_15
+    originalName: 
+    pivot: {x: 0.7894737, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 114
+      width: 19
+      height: 28
+    spriteID: 1507086bac6de9c45adad587daf27c69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 114}
+  - name: Fox_animations_Frame_16
+    originalName: 
+    pivot: {x: 0.6999999, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 77
+      width: 20
+      height: 29
+    spriteID: d34678a102af8b4438e3d42aa431307b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 77}
+  - name: Fox_animations_Frame_17
+    originalName: 
+    pivot: {x: 0.7894737, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 114
+      width: 19
+      height: 28
+    spriteID: cfd90a9fc0e233b4abdcf5a6988b3358
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 114}
+  - name: Fox_animations_Frame_18
+    originalName: 
+    pivot: {x: 0.85, y: -0.15384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 114
+      width: 20
+      height: 26
+    spriteID: d0c6a539265218548982d72a806777ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 114}
+  - name: Fox_animations_Frame_19
+    originalName: 
+    pivot: {x: 0.9565218, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 114
+      width: 23
+      height: 20
+    spriteID: 8d1cb310de12e7348b20c4d859593e65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 114}
+  - name: Fox_animations_Frame_20
+    originalName: 
+    pivot: {x: 1.0400001, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 114
+      width: 25
+      height: 9
+    spriteID: 28dfa1224d602ef419fb1f828ed28f8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 114}
+  - name: Fox_animations_Frame_21
+    originalName: 
+    pivot: {x: 0.7894737, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 114
+      width: 19
+      height: 28
+    spriteID: 01d760b8cc2dfdc4886bd0eff5a00c39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 114}
+  - name: Fox_animations_Frame_22
+    originalName: 
+    pivot: {x: 0.826087, y: -0.10000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 23
+      height: 30
+    spriteID: 7881ee7ad32975547bd8f6210095db5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 39}
+  - name: Fox_animations_Frame_23
+    originalName: 
+    pivot: {x: 0.95454544, y: -0.10000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 39
+      width: 22
+      height: 30
+    spriteID: e3dace7464f025644a2f414cf79239ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 39}
+  - name: Fox_animations_Frame_24
+    originalName: 
+    pivot: {x: 1.0909091, y: -0.10000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 39
+      width: 22
+      height: 30
+    spriteID: 6c6ddb3634e26ab4e9ce7d1340a690e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 39}
+  - name: Fox_animations_Frame_25
+    originalName: 
+    pivot: {x: 1.3809524, y: -0.10344828}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 39
+      width: 21
+      height: 29
+    spriteID: 9bf0559928ad622418d3460e74f1d1f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 39}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 125885263
+    name: Fox_animations
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Fox_animations_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 29
+      spriteId: 4eccf6fa93a62a0499fecdc7e0afe5a7
+    - name: Fox_animations_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 29
+      spriteId: 2a953cc042271884fbfd772ad52bd457
+    - name: Fox_animations_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 30
+      spriteId: 33ebc67efc041b04b85d4820cfd65f60
+    - name: Fox_animations_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 29
+      spriteId: a977789f5bc75d241bb3889bb13ce96b
+    - name: Fox_animations_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 29
+      spriteId: a58396ef5893e924ea425188029fe11c
+    - name: Fox_animations_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 17
+        y: 4
+        width: 20
+        height: 27
+      spriteId: d44daed69634a9c49b8cd4369fa08a09
+    - name: Fox_animations_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 17
+        y: 4
+        width: 35
+        height: 27
+      spriteId: f010f6eb9548d6b4ebfcb5367d709ecb
+    - name: Fox_animations_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 17
+        y: 4
+        width: 21
+        height: 27
+      spriteId: 725a4a5a11004664ba904b506a511d6b
+    - name: Fox_animations_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 29
+      spriteId: 9fd8e178049f1b34f8a45e8f3a41934c
+    - name: Fox_animations_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 17
+        y: 4
+        width: 22
+        height: 27
+      spriteId: f89a702b6c41c514d95425ee0d3c63a2
+    - name: Fox_animations_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 17
+        y: 4
+        width: 20
+        height: 28
+      spriteId: 193586f65668cc24db203a7720958713
+    - name: Fox_animations_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 17
+        y: 4
+        width: 19
+        height: 27
+      spriteId: b49e705b1a65ed143b7fb958b026c69b
+    - name: Fox_animations_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 17
+        y: 4
+        width: 20
+        height: 28
+      spriteId: e12fd4473eb52204db640de2d1a50057
+    - name: Fox_animations_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 17
+        y: 4
+        width: 22
+        height: 27
+      spriteId: 3bebd07124b40b04e8500365134bb3cd
+    - name: Fox_animations_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 15
+        y: 4
+        width: 19
+        height: 28
+      spriteId: 75871152b76f0b74ab5680e9d4583a95
+    - name: Fox_animations_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 15
+        y: 4
+        width: 19
+        height: 28
+      spriteId: 1507086bac6de9c45adad587daf27c69
+    - name: Fox_animations_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 16
+        y: 4
+        width: 20
+        height: 29
+      spriteId: d34678a102af8b4438e3d42aa431307b
+    - name: Fox_animations_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 15
+        y: 4
+        width: 19
+        height: 28
+      spriteId: cfd90a9fc0e233b4abdcf5a6988b3358
+    - name: Fox_animations_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 13
+        y: 4
+        width: 20
+        height: 26
+      spriteId: d0c6a539265218548982d72a806777ec
+    - name: Fox_animations_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 8
+        y: 4
+        width: 23
+        height: 20
+      spriteId: 8d1cb310de12e7348b20c4d859593e65
+    - name: Fox_animations_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 4
+        y: 4
+        width: 25
+        height: 9
+      spriteId: 28dfa1224d602ef419fb1f828ed28f8d
+    - name: Fox_animations_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 15
+        y: 4
+        width: 19
+        height: 28
+      spriteId: 01d760b8cc2dfdc4886bd0eff5a00c39
+    - name: Fox_animations_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 11
+        y: 3
+        width: 23
+        height: 30
+      spriteId: 7881ee7ad32975547bd8f6210095db5e
+    - name: Fox_animations_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 9
+        y: 3
+        width: 22
+        height: 30
+      spriteId: e3dace7464f025644a2f414cf79239ec
+    - name: Fox_animations_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 6
+        y: 3
+        width: 22
+        height: 30
+      spriteId: 6c6ddb3634e26ab4e9ce7d1340a690e2
+    - name: Fox_animations_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 1
+        y: 3
+        width: 21
+        height: 29
+      spriteId: 9bf0559928ad622418d3460e74f1d1f2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 60, y: 40}
