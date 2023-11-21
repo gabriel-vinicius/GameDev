@@ -359,7 +359,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Prosseguir
+  m_text: CONTINUAR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -386,7 +386,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 44.75
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -540,8 +540,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.9803, y: -104.8264}
-  m_SizeDelta: {x: 180.1217, y: 58.6377}
+  m_AnchoredPosition: {x: -0.000010967, y: -100}
+  m_SizeDelta: {x: 180, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &96412451
 MonoBehaviour:
@@ -6684,8 +6684,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.9816, y: -16.2445}
-  m_SizeDelta: {x: 180.1264, y: 51.9331}
+  m_AnchoredPosition: {x: -0.000010967, y: 0}
+  m_SizeDelta: {x: 180, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &688408155
 MonoBehaviour:
@@ -7892,6 +7892,26 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: 23, y: -8, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 3
+      m_TileSpriteIndex: 3
+      m_TileMatrixIndex: 1
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 24, y: -8, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
+      m_TileMatrixIndex: 1
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   - first: {x: 38, y: -8, z: 0}
     second:
       serializedVersion: 2
@@ -8918,9 +8938,9 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: f42443cf44e706749b111088558cbf44, type: 2}
   - m_RefCount: 75
     m_Data: {fileID: 11400000, guid: 11b41382ddb3c1145bf5d940b48bf22a, type: 2}
-  - m_RefCount: 3
-    m_Data: {fileID: 11400000, guid: c9bc01cfc7c785d48977ec3713d1494b, type: 2}
   - m_RefCount: 4
+    m_Data: {fileID: 11400000, guid: c9bc01cfc7c785d48977ec3713d1494b, type: 2}
+  - m_RefCount: 5
     m_Data: {fileID: 11400000, guid: 065193d0c48411742ac48f266341a14c, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 86f700121d936154f888f2dc434e8230, type: 2}
@@ -8933,9 +8953,9 @@ Tilemap:
     m_Data: {fileID: -1870807273, guid: 48de157795d9bab4087c1d21b37c39ce, type: 3}
   - m_RefCount: 75
     m_Data: {fileID: -868442510, guid: 643ae1ee31e3b8e429f50c6517abd697, type: 3}
-  - m_RefCount: 3
-    m_Data: {fileID: 999736830, guid: 48de157795d9bab4087c1d21b37c39ce, type: 3}
   - m_RefCount: 4
+    m_Data: {fileID: 999736830, guid: 48de157795d9bab4087c1d21b37c39ce, type: 3}
+  - m_RefCount: 5
     m_Data: {fileID: 1548689933, guid: 48de157795d9bab4087c1d21b37c39ce, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 1601845397, guid: 48de157795d9bab4087c1d21b37c39ce, type: 3}
@@ -8962,7 +8982,7 @@ Tilemap:
       e31: 7.36e-43
       e32: 7.33e-43
       e33: 7.33e-43
-  - m_RefCount: 139
+  - m_RefCount: 141
     m_Data:
       e00: 1
       e01: 0
@@ -8981,7 +9001,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 139
+  - m_RefCount: 141
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -11171,7 +11191,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0000076293945, y: 0.000011444092}
+  m_AnchoredPosition: {x: 0.0000076293945, y: -0.000019073486}
   m_SizeDelta: {x: -0.0000076294, y: 0.000045776}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1467092866
@@ -11209,7 +11229,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sair
+  m_text: SAIR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11236,7 +11256,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 52.45
+  m_fontSize: 44.75
   m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -11322,8 +11342,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.9839, y: 106.1918}
-  m_SizeDelta: {x: 344.9814, y: 119.3312}
+  m_AnchoredPosition: {x: -5.0023, y: 100}
+  m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1475436184
 MonoBehaviour:
@@ -11871,7 +11891,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 46.45
+  m_fontSize: 44.75
   m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 1
